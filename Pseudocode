@@ -1,0 +1,16 @@
+START
+create a class to hold the retail items data
+parameters -> (items, units, price)
+
+IMPORT retail item class into main file
+
+main FUNCTION
+        OUTPUT current date and time and the current directory
+        ADD the data for the 3 items into 3 different variables
+
+        OUTPUT the retail item information in the following format
+        Description:  + items
+        Units in Inventory: + units
+        Price: + price
+
+call main FUNCTION
